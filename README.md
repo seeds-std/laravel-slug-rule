@@ -1,5 +1,7 @@
 # validation rules for Laravel
 
+Checks if the slug is valid format with Str::slug().
+
 ## Installation
 
 ```shell
