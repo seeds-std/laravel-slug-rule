@@ -1,4 +1,4 @@
-# validation rules for Laravel
+# Slug validation rules for Laravel
 
 Checks if the slug is valid format with Str::slug().
 
