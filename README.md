@@ -35,6 +35,6 @@ Translate validation messages with `resources/lang/ja/validation.php`
 <?php
 
 return [
-    'slug'                 => ':attributeは有効なスラッグを指定してください。',
+    'slug' => ':attributeは有効なスラッグを指定してください。',
 ];
 ```
