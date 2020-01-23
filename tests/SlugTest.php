@@ -18,7 +18,6 @@ class SlugTest extends TestCase
         return Validator::make(['name' => $string], ['name' => new Slug($params)]);
     }
 
-
     /**
      * @test
      */
