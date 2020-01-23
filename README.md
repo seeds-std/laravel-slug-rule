@@ -1,5 +1,8 @@
 # Slug validation rules for Laravel
 
+[![Build Status](https://travis-ci.com/seeds-std/laravel-slug-rule.svg?branch=master)](https://travis-ci.com/seeds-std/laravel-slug-rule)
+[![codecov](https://codecov.io/gh/seeds-std/laravel-slug-rule/branch/master/graph/badge.svg)](https://codecov.io/gh/seeds-std/laravel-slug-rule)
+
 Checks if the slug is valid format with Str::slug().
 
 ## Installation
